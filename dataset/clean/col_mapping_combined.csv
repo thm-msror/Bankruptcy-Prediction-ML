@@ -1,0 +1,67 @@
+,original_name
+net_profit_total_assets,net profit / total assets
+total_liabilities_total_assets,total liabilities / total assets
+working_capital_total_assets,working capital / total assets
+current_assets_short_term_liabilities,current assets / short-term liabilities
+cash_short_term_securities_receivables_short_term_liabilities_operating_expenses_depreciation_365,[(cash + short-term securities + receivables - short-term liabilities) / (operating expenses - depreciation)] * 365
+retained_earnings_total_assets,retained earnings / total assets
+ebit_total_assets,EBIT / total assets
+book_value_of_equity_total_liabilities,book value of equity / total liabilities
+sales_total_assets,sales / total assets
+equity_total_assets,equity / total assets
+gross_profit_extraordinary_items_financial_expenses_total_assets,(gross profit + extraordinary items + financial expenses) / total assets
+gross_profit_short_term_liabilities,gross profit / short-term liabilities
+gross_profit_depreciation_sales,(gross profit + depreciation) / sales
+gross_profit_interest_total_assets,(gross profit + interest) / total assets
+total_liabilities_365_gross_profit_depreciation,(total liabilities * 365) / (gross profit + depreciation)
+gross_profit_depreciation_total_liabilities,(gross profit + depreciation) / total liabilities
+total_assets_total_liabilities,total assets / total liabilities
+gross_profit_total_assets,gross profit / total assets
+gross_profit_sales,gross profit / sales
+inventory_365_sales,(inventory * 365) / sales
+sales_n_sales_n_1,sales (n) / sales (n-1)
+profit_on_operating_activities_total_assets,profit on operating activities / total assets
+net_profit_sales,net profit / sales
+gross_profit_in_3_years_total_assets,gross profit (in 3 years) / total assets
+equity_share_capital_total_assets,(equity - share capital) / total assets
+net_profit_depreciation_total_liabilities,(net profit + depreciation) / total liabilities
+profit_on_operating_activities_financial_expenses,profit on operating activities / financial expenses
+working_capital_fixed_assets,working capital / fixed assets
+logarithm_of_total_assets,logarithm of total assets
+total_liabilities_cash_sales,(total liabilities - cash) / sales
+gross_profit_interest_sales,(gross profit + interest) / sales
+current_liabilities_365_cost_of_products_sold,(current liabilities * 365) / cost of products sold
+operating_expenses_short_term_liabilities,operating expenses / short-term liabilities
+operating_expenses_total_liabilities,operating expenses / total liabilities
+profit_on_sales_total_assets,profit on sales / total assets
+total_sales_total_assets,total sales / total assets
+current_assets_inventories_long_term_liabilities,(current assets - inventories) / long-term liabilities
+constant_capital_total_assets,constant capital / total assets
+profit_on_sales_sales,profit on sales / sales
+current_assets_inventory_receivables_short_term_liabilities,(current assets - inventory - receivables) / short-term liabilities
+total_liabilities_profit_on_operating_activities_depreciation_12_365,total liabilities / ((profit on operating activities + depreciation) * (12/365))
+profit_on_operating_activities_sales,profit on operating activities / sales
+rotation_receivables_inventory_turnover_in_days,rotation receivables + inventory turnover in days
+receivables_365_sales,(receivables * 365) / sales
+net_profit_inventory,net profit / inventory
+current_assets_inventory_short_term_liabilities,(current assets - inventory) / short-term liabilities
+inventory_365_cost_of_products_sold,(inventory * 365) / cost of products sold
+ebitda_total_assets,EBITDA / total assets
+ebitda_sales,EBITDA / sales
+current_assets_total_liabilities,current assets / total liabilities
+short_term_liabilities_total_assets,short-term liabilities / total assets
+short_term_liabilities_365_cost_of_products_sold,(short-term liabilities * 365) / cost of products sold
+equity_fixed_assets,equity / fixed assets
+constant_capital_fixed_assets,constant capital / fixed assets
+working_capital,working capital
+sales_cost_of_products_sold_sales,(sales - cost of products sold) / sales
+current_assets_inventory_short_term_liabilities_sales_gross_profit_depreciation,(current assets - inventory - short-term liabilities) / (sales - gross profit - depreciation)
+total_costs_total_sales,total costs / total sales
+long_term_liabilities_equity,long-term liabilities / equity
+sales_inventory,sales / inventory
+sales_receivables,sales / receivables
+short_term_liabilities_365_sales,(short-term liabilities * 365) / sales
+sales_short_term_liabilities,sales / short-term liabilities
+sales_fixed_assets,sales / fixed assets
+bankrupt,Bankrupt
+yearstobankruptcy,YearsToBankruptcy
